@@ -65,13 +65,13 @@
 #theme-switch:hover .switch-thumb {
   box-shadow: 0 0 2px 3px var(--bs-primary);
 }
-[data-bs-theme="darkmode"] #theme-switch .switch-check {
+[data-bs-theme="dark"] #theme-switch .switch-check {
   opacity: 1;
 }
-[data-bs-theme="darkmode"] #theme-switch .switch-x {
+[data-bs-theme="dark"] #theme-switch .switch-x {
   opacity: 0;
 }
-[data-bs-theme="darkmode"] #theme-switch .switch-thumb {
+[data-bs-theme="dark"] #theme-switch .switch-thumb {
   left: 27px;
 }
 #root {
